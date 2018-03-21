@@ -1,0 +1,21 @@
+{
+    "added_words":
+    [
+        "metadata"
+    ],
+    "draw_white_space": "all",
+    "font_face": "Monospace",
+    "font_size": 18,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "rulers":
+    [
+        40,
+        72
+    ],
+    "spell_check": true,
+    "theme": "Default.sublime-theme",
+    "translate_tabs_to_spaces": true
+}
