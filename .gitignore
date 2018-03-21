@@ -1,0 +1,16 @@
+Package Control.cache
+Package Control.merged-ca-bundle
+Package Control.system-ca-bundle
+Package Control.user-ca-bundle
+Package Control.last-run
+
+SublimeConfig.sublime-workspace
+FileHistory.json
+*.last-run
+*.log
+
+# Package certs
+oscrypto-ca-bundle.crt
+
+# Commercial
+*.sublime-license
