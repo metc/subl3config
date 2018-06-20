@@ -1,19 +1,19 @@
 {
-    "bootstrapped": true,
-    "in_process_packages":
-    [
-    ],
-    "installed_packages":
-    [
-        "FileDiffs",
-        "HexViewer",
-        "JSONLint",
-        "MarkdownEditing",
-        "Material Theme",
-        "Package Control",
-        "Pretty JSON",
-        "Sync Settings",
-        "TodoReview",
-        "TrailingSpaces"
-    ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"FileDiffs",
+		"HexViewer",
+		"JSONLint",
+		"MarkdownEditing",
+		"Material Theme",
+		"Package Control",
+		"Pretty JSON",
+		"Sync Settings",
+		"TodoReview",
+		"TrailingSpaces"
+	]
 }
